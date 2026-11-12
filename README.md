@@ -4,12 +4,11 @@
 
 # Manan Dhameliya
 
-### Senior Full Stack Engineer · Team Lead · Solutions Architect (AWS) · VAPT Specialist
+### Senior Full Stack Engineer · Team Lead · Solutions Architect (AWS) · VAPT & OWASP Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Leadership%20%26%20Architecture%20Roles-2EA043?style=for-the-badge)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-dhameliya/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manandhameliya888@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Full--Time%20%7C%20Collaborations-2EA043?style=for-the-badge)](mailto:manandhameliya888@gmail.com)
 
 </div>
 
@@ -24,6 +23,7 @@ Seasoned **Senior Software Engineer and Team Leader** who builds, secures, and s
 - 👥 **Leadership** — Team Lead, Requirement Lead and Business Analyst with experience owning client relationships, B2B & vendor contracts, and staff augmentation
 - 🤖 **AI‑Assisted Engineering** — Expert in AI coding tools and prompt engineering, paired with rigorous personal code review and thorough testing before anything ships
 - 🧭 **Working style** — Agile (Scrum / Kanban), strategic performance optimization, and a relentless focus on project outcomes
+- 💼 **Open to** — Freelance, Full‑Time Opportunities and Collaborations in **Frontend, Backend, Full Stack or Lead** roles
 
 > 🌱 Actively seeking opportunities to learn and build with **Web3, LLMs, NLP, Generative AI and Blockchain**.
 
@@ -189,26 +189,12 @@ Discover  →  Analyse  →  Architect  →  Build  →  Secure  →  Ship  → 
 
 ---
 
-## 📈 GitHub Stats
+## � Let's Connect
 
-<div align="center">
+Open to **Freelance, Full‑Time Opportunities and Collaborations** in **Frontend, Backend, Full Stack or Lead** roles, as well as consulting engagements in **VAPT, AWS architecture and full stack delivery**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-Open to **senior engineering, team leadership and solution architecture roles**, as well as consulting engagements in **VAPT, AWS architecture and full stack delivery**.
-
-- 📧 **Email**: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 🌐 **Portfolio**: [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
+- 📧 **Email**: [manandhameliya888@gmail.com](mailto:manandhameliya888@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/manan-dhameliya](https://www.linkedin.com/in/manan-dhameliya/)
 
 <div align="center">
 
