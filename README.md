@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](banner.png)
+![Header](Manan Dhameliya Tech Portfolio Banner.png)
 
 # Manan Dhameliya
 
